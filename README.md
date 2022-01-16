@@ -5,6 +5,6 @@
 Точность по метрике ROC AUC: 0.88
 
 ## Материалы решения
-Jypyter Notebook: https://github.com/AwareTeam-LOD/chore/blob/main/AwareTeam.ipynb
-Финальная модель: https://github.com/AwareTeam-LOD/chore/blob/main/final_model.model
-Заполненный файл с предсказаниями: https://github.com/AwareTeam-LOD/chore/blob/main/test.csv
+Jypyter Notebook: https://github.com/AwareTeam-LOD/chore/blob/main/AwareTeam.ipynb <br>
+Финальная модель: https://github.com/AwareTeam-LOD/chore/blob/main/final_model.model <br>
+Заполненный файл с предсказаниями: https://github.com/AwareTeam-LOD/chore/blob/main/test.csv <br>
